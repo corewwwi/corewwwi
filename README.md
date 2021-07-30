@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning: Kotlin and Python.
+- 📫 How to reach me: Twitter @prod_ocean
+
 ![corewwwi's github stats](https://github-readme-stats.vercel.app/api?username=corewwwi)
