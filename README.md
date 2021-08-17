@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning: Kotlin and Python.
-- 📫 How to reach me: Twitter @prod_ocean
+### Counter
+
+![访客统计](https://count.getloli.com/get/@corewwwi?theme=gelbooru)
+<!-- get it from:  https://count.getloli.com/ -->
+- 🌱 I’m currently learning: Python and C#.
+- 📫 How to reach me: Twitter [corewwwi](twitter.com/prod_ocean)
+- 📫 My Blog: [![corewwwi](https://corewwwi.blogspot.com/favicon.ico)](https://corewwwi.blogspot.com)
+
+
 
 ![corewwwi's github stats](https://github-readme-stats.vercel.app/api?username=corewwwi)
